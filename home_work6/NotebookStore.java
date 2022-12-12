@@ -1,5 +1,5 @@
 package home_work6;
-import homework6.options.*;
+import home_work6.options.*;
 import java.util.*;
 public class NotebookStore {
     Set<Notebook> notebooksOnStock;
